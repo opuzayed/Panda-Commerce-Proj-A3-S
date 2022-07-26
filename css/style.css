@@ -4,10 +4,22 @@
 .categories img {
   width: 100px;
 }
-.panda-btn-buy-now {
-  background-image: linear-gradient(to bottom, #ff589b 0%, FF136F 100%);
+/* .buy-now {
+  background-image: linear-gradient(to bottom, #ff589b 0%, FF136F 100%); 
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 20px;
+} */
+.buy-now {
+  background-image: linear-gradient(
+    to bottom,
+    #ff589b 0%,
+    rgba(255, 0, 21, 0.538)
+  );
   color: #fff;
   border: none;
   border-radius: 8px;
   padding: 9px 20px;
 }
+/* FF136F 100% *- color ta kaj kore na keno*/
